@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  padding-left: 200px;
+}
+
+#bids {
+  height: 250px;
+  width: 500px;
+  overflow-x: scroll;
+  border: 1px solid;
+}
+
+.bidders {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.person2 {
+  padding-left: 40px;
+}
+/*# sourceMappingURL=styles.css.map */
